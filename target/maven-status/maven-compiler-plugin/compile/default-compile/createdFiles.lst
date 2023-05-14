@@ -2,3 +2,4 @@ example/cashcard/CashCard.class
 example/cashcard/CashCardController.class
 example/cashcard/CashCardRepository.class
 example/cashcard/CashCardApplication.class
+example/cashcard/SecurityConfig.class
